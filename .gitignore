@@ -1,0 +1,7 @@
+ridgewood_sync.py
+ridgewood_runner.py
+sheet_state.json
+sync.log
+.last_success
+*.pyc
+__pycache__/
